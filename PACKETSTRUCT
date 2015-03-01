@@ -1,0 +1,12 @@
+0x10 / 0x15- Request Res
+	0x10 - Hello
+	0x11 - Request Async Peer Update
+	0x12 - Request Async File Update
+
+
+0x20 - Async
+	0x50 - Async Peer Update
+	0x51 - Async Char Update
+	0x52 - Async File Add
+
+
